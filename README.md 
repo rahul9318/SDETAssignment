@@ -1,0 +1,14 @@
+# Fancode SDET Assignment
+
+## Setup and Run
+
+1. Clone the repository
+   ```bash
+   git clone <repository-url>
+
+2. Navigate to the project directory
+    cd FancodeSdet
+
+3. Run the tests using Maven
+   mvn test
+
